@@ -1,0 +1,1 @@
+spring:  session:    store-type: mongodb    mongodb:      collection-name: sessions  data:    mongodb:      host: localhost      port: 27017      database: sessions-db                   
